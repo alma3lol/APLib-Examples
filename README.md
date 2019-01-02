@@ -12,7 +12,7 @@ These examples are very basic and very helpful for small projects.
 - [Parameters based content example](https://github.com/alma3lol/APLib-Examples/tree/master/basic-examples/parameters-based-content/)
 - [Login/Sign-up example](https://github.com/alma3lol/APLib-Examples/tree/master/basic-examples/login-sign-up/)
 
-# Important Note
+## Important Note
 
 Examples rely on **APLib**'s folder being a sibling folder to **APLib-Examples**' folder, like so:
 
