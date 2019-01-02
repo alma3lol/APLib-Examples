@@ -18,5 +18,5 @@ Examples rely on **APLib**'s folder being a sibling folder to **APLib-Examples**
 
 ```conf
 |-- /APLib-Examples/
-|-- /APlib/
+|-- /APLib/
 ```
